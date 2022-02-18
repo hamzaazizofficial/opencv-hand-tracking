@@ -9,7 +9,7 @@
   
 </div>
 
-## Installation and Usage
+## Installation
 - Install Opencv
  > *pip install opencv-python*
 - Install Mediapipe
