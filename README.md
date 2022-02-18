@@ -9,8 +9,11 @@
   
 </div>
 
-## What is OpenCv?
+## What is OpenCV?
 > OpenCV is a library used for computer vision applications. With help of OpenCV, we can build an enormous number of applications that work better in real-time. Mainly it is used for image and video processing
+
+## Real-time hand tracking?
+> Real-time Hand Gesture Recognition or hand tracking is an active research field in Human-Computer Interaction technology. It has many applications in virtual environment control and sign language translation, robot control, or music creation
 
 ## Installation
 - Install Opencv
