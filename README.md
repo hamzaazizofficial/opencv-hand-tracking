@@ -21,4 +21,5 @@
 - Install Mediapipe
  > *pip install mediapipe*
 - Now run *hand_tracking.py*
+- 
 
